@@ -38,7 +38,7 @@ info:
   build.artifactId: $project.artifactId$
   build.version: $project.version$
 
-  ---
+---
 server:
   port: 8001
   
